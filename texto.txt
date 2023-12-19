@@ -1,2 +1,2 @@
-Nombre: 
-Rut:
+Nombre: Javiera
+Rut: 20460355-3
